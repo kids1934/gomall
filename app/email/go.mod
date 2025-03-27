@@ -1,4 +1,4 @@
-module github.com/cloudwego/biz-demo/gomall/app/email
+module github.com/kids1934/gomall/app/email
 
 go 1.22.0
 

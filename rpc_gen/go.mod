@@ -1,4 +1,4 @@
-module github.com/cloudwego/biz-demo/gomall/rpc_gen
+module github.com/kids1934/rpc_gen
 
 go 1.21
 

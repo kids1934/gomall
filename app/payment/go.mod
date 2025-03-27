@@ -1,4 +1,4 @@
-module github.com/cloudwego/biz-demo/gomall/app/payment
+module github.com/kids1934/gomall/app/payment
 
 go 1.21
 

@@ -1,4 +1,4 @@
-module github.com/cloudwego/biz-demo/gomall/app/cart
+module github.com/kids1934/gomall/app/cart
 
 go 1.21
 

@@ -1,4 +1,4 @@
-module github.com/cloudwego/biz-demo/gomall/app/user
+module github.com/kids1934/gomall/app/user
 
 go 1.21
 
@@ -9,6 +9,7 @@ replace (
 )
 
 require (
+	github.com/cloudwego/biz-demo/gomall/app/user v0.0.0-20250325132314-218755ff9cb6
 	github.com/cloudwego/biz-demo/gomall/common v0.0.0-00010101000000-000000000000
 	github.com/cloudwego/biz-demo/gomall/rpc_gen v0.0.0-00010101000000-000000000000
 	github.com/cloudwego/kitex v0.11.3

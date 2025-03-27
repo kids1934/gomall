@@ -1,4 +1,4 @@
-module github.com/cloudwego/biz-demo/gomall/app/checkout
+module github.com/kids1934/gomall/app/checkout
 
 go 1.22.0
 

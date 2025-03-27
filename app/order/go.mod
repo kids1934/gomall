@@ -1,4 +1,4 @@
-module github.com/cloudwego/biz-demo/gomall/app/order
+module github.com/kids1934/gomall/app/order
 
 go 1.21
 
